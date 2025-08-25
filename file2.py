@@ -1,4 +1,4 @@
 def subtaction(a,b):
-    result = a-b
-    return result
+    data = a-b
+    return data
 
