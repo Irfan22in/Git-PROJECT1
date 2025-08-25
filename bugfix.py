@@ -1,0 +1,2 @@
+def bugfixed():
+    return None
