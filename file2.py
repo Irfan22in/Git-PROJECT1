@@ -1,3 +1,3 @@
 def subtaction(a,b):
-    c = a-b
-    return c
+    d = a-b
+    return d
